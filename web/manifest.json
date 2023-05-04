@@ -1,6 +1,6 @@
 {
-    "name": "hamburgers_app",
-    "short_name": "hamburgers_app",
+    "name": "bom_hamburguer",
+    "short_name": "bom_hamburguer",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

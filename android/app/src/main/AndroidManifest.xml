@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.hamburgers_app">
+    package="com.st_genetics.bom_hamburguer">
    <application
-        android:label="hamburgers_app"
+        android:label="bom_hamburguer"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
