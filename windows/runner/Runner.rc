@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "hamburgers_app" "\0"
+            VALUE "FileDescription", "bom_hamburguer" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "hamburgers_app" "\0"
+            VALUE "InternalName", "bom_hamburguer" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2023 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "hamburgers_app.exe" "\0"
-            VALUE "ProductName", "hamburgers_app" "\0"
+            VALUE "OriginalFilename", "bom_hamburguer.exe" "\0"
+            VALUE "ProductName", "bom_hamburguer" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
